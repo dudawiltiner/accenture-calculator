@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/accenture-calculator/static/css/main.ef24efd9.css",
+    "main.js": "/accenture-calculator/static/js/main.5282d553.js",
+    "index.html": "/accenture-calculator/index.html",
+    "main.ef24efd9.css.map": "/accenture-calculator/static/css/main.ef24efd9.css.map",
+    "main.5282d553.js.map": "/accenture-calculator/static/js/main.5282d553.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef24efd9.css",
+    "static/js/main.5282d553.js"
+  ]
+}
